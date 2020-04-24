@@ -9,7 +9,7 @@ Keep track of your time ⏰.
 -Alarm goes off when time is up.
 
 # How to use it ?
-Simple, Just go to __[TickTock](https://stark-expensify.herokuapp.com/) and you're ready to go...
+Simple, Just go to __[TickTock]__() and you're ready to go...
 
 # Tech Used
 > Basic front-end designing
@@ -18,10 +18,5 @@ Simple, Just go to __[TickTock](https://stark-expensify.herokuapp.com/) and you'
 > Front-end Events
 1.JavaScript
 
-# In Action
-<div style="display: flex;">
-[!](E:\Clockworks\Screenshot.png)
-</div>
-
 # Contribution
-Feel free to raise issues, if you find any errors or have some suggestions that can make this application better.
+Feel free to raise issues, if you find any error or have some query to put email me at __juveriamanzar29@gmail.com__.
