@@ -20,9 +20,8 @@ Simple, Just go to __[TickTock](https://stark-expensify.herokuapp.com/) and you'
 
 # In Action
 <div style="display: flex;">
-[](E:\Clockworks\Screenshot.png)
+[!](E:\Clockworks\Screenshot.png)
 </div>
-
 
 # Contribution
 Feel free to raise issues, if you find any errors or have some suggestions that can make this application better.
