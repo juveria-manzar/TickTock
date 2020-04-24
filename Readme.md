@@ -8,15 +8,12 @@ Keep track of your time ⏰.
 -minimal UI
 -Alarm goes off when time is up.
 
-# How to use it ?
-Simple, Just go to __[TickTock]__() and you're ready to go...
-
 # Tech Used
 > Basic front-end designing
 1. HTML5
 2. CSS3 
 > Front-end Events
-1.JavaScript
+1. JavaScript
 
 # Contribution
-Feel free to raise issues, if you find any error or have some query to put email me at __juveriamanzar29@gmail.com__.
+Feel free to raise issues, if you find any error or have some query to put, email me at __juveriamanzar29@gmail.com__.
